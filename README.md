@@ -1,7 +1,7 @@
 # CPE315-lab4
 # Steven Blakely
 
-ARM based matrix addition: A + B = C.
+  ARM based matrix addition: A + B = C.
   Address of array C should be stored in r0.
   Address of array A should be stored in r1.
   Address of array B should be stored in r2.
